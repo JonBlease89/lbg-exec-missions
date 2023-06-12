@@ -6,4 +6,7 @@ body {
 
 }
 
-p {color: grey;}
+p {color: darkviolet;}
+li {
+    color: green
+}
